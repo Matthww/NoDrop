@@ -1,0 +1,6 @@
+name: NoDrop
+main: NoDrop\NoDrop
+version: 1.0
+api: [2.0.0]
+author: Matthww
+description: Cancel death drops
