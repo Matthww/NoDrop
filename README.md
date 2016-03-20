@@ -1,2 +1,4 @@
 # NoDrop
-No item drop when player dies
+Blocks the items to drop when the player dies!
+
+ #Noobdev
